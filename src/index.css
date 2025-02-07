@@ -111,3 +111,9 @@ body {
     color: black;
     transition: all 0.2s;
 }
+
+.footer {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
